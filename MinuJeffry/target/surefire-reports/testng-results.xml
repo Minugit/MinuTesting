@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-02-11T17:17:43 AST" name="com.google.testscripts.TestHelper" finished-at="2025-02-11T17:17:51 AST" duration-ms="7859">
+  <suite started-at="2025-02-12T07:28:01 AST" name="com.google.testscripts.TestHelper" finished-at="2025-02-12T07:28:32 AST" duration-ms="31049">
     <groups>
     </groups>
-    <test started-at="2025-02-11T17:17:43 AST" name="Command line test" finished-at="2025-02-11T17:17:51 AST" duration-ms="7859">
+    <test started-at="2025-02-12T07:28:01 AST" name="Command line test" finished-at="2025-02-12T07:28:32 AST" duration-ms="31049">
       <class name="com.google.testscripts.TestHelper">
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.google.testscripts.TestHelper@1f59a598]" started-at="2025-02-11T17:17:43 AST" name="beforeMethod" finished-at="2025-02-11T17:17:51 AST" duration-ms="7676" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.google.testscripts.TestHelper@63070bab]" started-at="2025-02-12T07:28:01 AST" name="beforeMethod" finished-at="2025-02-12T07:28:32 AST" duration-ms="30944" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="f()[pri:0, instance:com.google.testscripts.TestHelper@1f59a598]" started-at="2025-02-11T17:17:51 AST" name="f" finished-at="2025-02-11T17:17:51 AST" duration-ms="47" status="PASS">
+        <test-method signature="f()[pri:0, instance:com.google.testscripts.TestHelper@63070bab]" started-at="2025-02-12T07:28:32 AST" name="f" finished-at="2025-02-12T07:28:32 AST" duration-ms="4" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.google.testscripts.TestHelper@1f59a598]" started-at="2025-02-11T17:17:51 AST" name="afterMethod" finished-at="2025-02-11T17:17:51 AST" duration-ms="3" status="PASS">
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.google.testscripts.TestHelper@63070bab]" started-at="2025-02-12T07:28:32 AST" name="afterMethod" finished-at="2025-02-12T07:28:32 AST" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->

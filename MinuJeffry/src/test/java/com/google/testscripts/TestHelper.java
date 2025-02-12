@@ -22,9 +22,9 @@ public class TestHelper {
   public void beforeMethod() {
 	  FileUtility fu=new FileUtility();
 	  System.setProperty("webdriver.edge.driver",fu.getEdgeDriverPath());
-	  driver=new EdgeDriver();
-	  //WebDriverManager.edgedriver().setup();
 	  //driver=new EdgeDriver();
+	  WebDriverManager.edgedriver().setup();
+	  driver=new EdgeDriver();
 	  driver.get("https://www.google.co.in/");
 	  WebElement wb=driver.findElement(By.xpath("//textarea[@class='gLFyf']"));
 	  wb.sendKeys("Apple");
